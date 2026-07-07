@@ -1,0 +1,2 @@
+# anubixlabs-privacy
+privacy statement
